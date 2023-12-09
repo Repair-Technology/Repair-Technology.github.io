@@ -65,12 +65,40 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: '手册',
+          items: [
+            {
+              label: '维修理论',
+              to: '/docs/intro',
+            },
+            {
+              label: '家庭维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+            {
+              label: '商用维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+            {
+              label: '农用维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+            {
+              label: '医用维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+            {
+              label: '工业维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+            {
+              label: '特殊维修',
+              href: 'https://repair-technology.github.io/household-facilities-repairing',
+            },
+          ],
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '新闻', position: 'left'},
         {
           href: 'https://github.com/Repair-Technology/Repair-Technology.github.io',
           label: 'GitHub',
