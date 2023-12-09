@@ -161,6 +161,14 @@ const config: Config = {
               label: '采购入口',
               to: '/docs/intro',
             },
+            {
+              label: '维修技能认证',
+              to: '/docs/intro',
+            },
+            {
+              label: '可维修性认证',
+              to: '/docs/intro',
+            },
           ],
         },
         {
@@ -168,15 +176,27 @@ const config: Config = {
           items: [
             {
               label: '加入我们',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              to: '/docs/intro',
             },
             {
               label: '论坛',
-              href: 'https://discordapp.com/invite/docusaurus',
+              to: '/docs/intro',
             },
             {
               label: '问答',
-              href: 'https://twitter.com/docusaurus',
+              to: '/docs/intro',
+            },
+            {
+              label: '视频',
+              to: '/docs/intro',
+            },
+            {
+              label: '手册',
+              to: '/docs/intro',
+            },
+            {
+              label: '小组',
+              to: '/docs/intro',
             },
           ],
         },
