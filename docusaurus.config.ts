@@ -68,7 +68,7 @@ const config: Config = {
       items: [
         {
           position: 'left',
-          label: '    手册          ',
+          label: '手册',
           items: [
             {
               label: '维修理论手册',
@@ -112,7 +112,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '     手册',
+          title: '手 册',
           items: [
             {
               label: '维修理论手册',
@@ -145,7 +145,7 @@ const config: Config = {
           ],
         },
         {
-          title: '     产品',
+          title: '产 品',
           items: [
             {
               label: '工具 || 配件',
@@ -174,7 +174,7 @@ const config: Config = {
           ],
         },
         {
-          title: '     社区',
+          title: '社 区',
           items: [
             {
               label: '加入我们',
@@ -203,7 +203,7 @@ const config: Config = {
           ],
         },
         {
-          title: '     公司',
+          title: '公 司',
           items: [
             {
               label: '公司新闻',
@@ -224,7 +224,7 @@ const config: Config = {
           ],
         },
          {
-          title: '    法律',
+          title: '法 律',
           items: [
             {
               label: '无障碍',
