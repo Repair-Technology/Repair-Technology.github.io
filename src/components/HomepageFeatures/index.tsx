@@ -10,56 +10,56 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '家庭维修',
+    title: '家庭维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        家庭所有人使用的所有东西的维修.
+        家庭所有人使用的所有东西的维修手册.
       </>
     ),
   },
  {
-    title: '商用维修',
+    title: '商用维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        商业活动中用到的东西的维修.
+        商业活动中用到的东西的维修手册.
       </>
     ),
   },
  {
-    title: '农用维修',
+    title: '农用维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        农业生产中用到的东西的维修.
+        农业生产中用到的东西的维修手册.
       </>
     ),
   },
  {
-    title: '医用维修',
+    title: '医用维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        医疗中用到的东西的维修.
+        医疗中用到的东西的维修手册.
       </>
     ),
   },
   {
-    title: '工业维修',
+    title: '工业维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        工业生产中所用东西的维修.
+        工业生产中所用东西的维修手册.
       </>
     ),
   },
   {
-    title: '特殊维修',
+    title: '特殊维修手册',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        特殊行业，特殊场景内的维修.
+        特殊行业，特殊场景内的维修手册.
       </>
     ),
   },
