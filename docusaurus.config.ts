@@ -68,39 +68,39 @@ const config: Config = {
       items: [
         {
           position: 'left',
-          label: '手册',
+          label: ' 手册 ',
           items: [
             {
-              label: '维修理论',
+              label: '维修理论手册',
               to: '/docs/intro',
             },
             {
-              label: '家庭维修',
+              label: '家庭维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '商用维修',
+              label: '商用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '农用维修',
+              label: '农用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '医用维修',
+              label: '医用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '工业维修',
+              label: '工业维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '特殊维修',
+              label: '特殊维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
           ],
         },
-        {to: '/blog', label: '新闻', position: 'left'},
+        {to: '/blog', label: '公司新闻', position: 'left'},
         {
           href: 'https://github.com/Repair-Technology/Repair-Technology.github.io',
           label: 'GitHub',
@@ -115,31 +115,31 @@ const config: Config = {
           title: '手册',
           items: [
             {
-              label: '维修理论',
+              label: '维修理论手册',
               to: '/docs/intro',
             },
             {
-              label: '家庭维修',
+              label: '家庭维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '商用维修',
+              label: '商用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '农用维修',
+              label: '农用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '医用维修',
+              label: '医用维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '工业维修',
+              label: '工业维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
             {
-              label: '特殊维修',
+              label: '特殊维修手册',
               href: 'https://repair-technology.github.io/household-facilities-repairing',
             },
           ],
@@ -148,7 +148,7 @@ const config: Config = {
           title: '产品',
           items: [
             {
-              label: '工具|配件',
+              label: '工具 || 配件',
               to: '/docs/intro',
             },
             {
