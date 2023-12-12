@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Fix：Dell笔记本电脑开机时连续五声报警音
-tag: [[Dell笔记本电脑,五声报警音]
+tag: [Dell笔记本电脑, 五声报警音]
 toc_max_heading_level: 4
 last_update:
   date: 11/01/2022
